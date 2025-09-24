@@ -1,0 +1,262 @@
+{
+  "room_id": "vr_multilingual",
+  "room_name": "Global Localization Project Kickoff",
+  "project_context": "Global Localization Project Kickoff",
+  "start_time": "2025-09-24T16:07:54.028156",
+  "end_time": "2025-09-24T16:08:05.891711",
+  "participants": [
+    "Alice",
+    "Mehmet",
+    "Carlos",
+    "Marie",
+    "Hans",
+    "Giulia",
+    "Wei"
+  ],
+  "transcript": [
+    {
+      "timestamp": "2025-09-24T16:07:54.026947",
+      "type": "info",
+      "data": {
+        "message": "Recording started"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:54.028156",
+      "type": "user_joined",
+      "data": {
+        "user_id": "alice",
+        "name": "Alice",
+        "language": "en"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:54.566038",
+      "type": "user_joined",
+      "data": {
+        "user_id": "mehmet",
+        "name": "Mehmet",
+        "language": "tr"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:55.080072",
+      "type": "user_joined",
+      "data": {
+        "user_id": "carlos",
+        "name": "Carlos",
+        "language": "es"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:55.599285",
+      "type": "user_joined",
+      "data": {
+        "user_id": "marie",
+        "name": "Marie",
+        "language": "fr"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:56.123420",
+      "type": "user_joined",
+      "data": {
+        "user_id": "hans",
+        "name": "Hans",
+        "language": "de"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:56.645250",
+      "type": "user_joined",
+      "data": {
+        "user_id": "giulia",
+        "name": "Giulia",
+        "language": "it"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:57.185735",
+      "type": "user_joined",
+      "data": {
+        "user_id": "wei",
+        "name": "Wei",
+        "language": "zh"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:57.710087",
+      "type": "gesture",
+      "data": {
+        "user_id": "alice",
+        "user": "Alice",
+        "gesture": "wave",
+        "reaction": "waves hello",
+        "language": "en"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:58.712491",
+      "type": "gesture",
+      "data": {
+        "user_id": "mehmet",
+        "user": "Mehmet",
+        "gesture": "thumbs_up",
+        "reaction": "beğenir",
+        "language": "tr"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:07:59.720640",
+      "type": "gesture",
+      "data": {
+        "user_id": "carlos",
+        "user": "Carlos",
+        "gesture": "clap",
+        "reaction": "aplaude",
+        "language": "es"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:00.736764",
+      "type": "gesture",
+      "data": {
+        "user_id": "marie",
+        "user": "Marie",
+        "gesture": "peace",
+        "reaction": "fait le signe de la paix",
+        "language": "fr"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:01.751987",
+      "type": "gesture",
+      "data": {
+        "user_id": "hans",
+        "user": "Hans",
+        "gesture": "point",
+        "reaction": "zeigt",
+        "language": "de"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:02.774540",
+      "type": "gesture",
+      "data": {
+        "user_id": "giulia",
+        "user": "Giulia",
+        "gesture": "wave",
+        "reaction": "saluta",
+        "language": "it"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:03.793815",
+      "type": "gesture",
+      "data": {
+        "user_id": "wei",
+        "user": "Wei",
+        "gesture": "thumbs_up",
+        "reaction": "点赞",
+        "language": "zh"
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:04.847762",
+      "type": "position_update",
+      "data": {
+        "user_id": "mehmet",
+        "position": {
+          "x": 1,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:04.861757",
+      "type": "proximity",
+      "data": {
+        "user1": "Mehmet",
+        "user2": "Hans",
+        "distance": 2.23606797749979
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:05.365849",
+      "type": "position_update",
+      "data": {
+        "user_id": "marie",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:05.365849",
+      "type": "proximity",
+      "data": {
+        "user1": "Marie",
+        "user2": "Mehmet",
+        "distance": 1.0
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:05.367061",
+      "type": "proximity",
+      "data": {
+        "user1": "Marie",
+        "user2": "Hans",
+        "distance": 2.8284271247461903
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:05.875329",
+      "type": "position_update",
+      "data": {
+        "user_id": "wei",
+        "position": {
+          "x": 2,
+          "y": 0,
+          "z": -1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:05.877492",
+      "type": "proximity",
+      "data": {
+        "user1": "Wei",
+        "user2": "Mehmet",
+        "distance": 1.4142135623730951
+      }
+    },
+    {
+      "timestamp": "2025-09-24T16:08:05.877492",
+      "type": "proximity",
+      "data": {
+        "user1": "Wei",
+        "user2": "Marie",
+        "distance": 2.23606797749979
+      }
+    }
+  ],
+  "moderation_log": []
+}

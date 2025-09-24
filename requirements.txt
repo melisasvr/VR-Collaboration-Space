@@ -1,0 +1,17 @@
+
+# VR Collaboration Spaces Requirements
+# Core web framework
+flask>=2.3.0
+flask-socketio>=5.3.0
+# Real-time communication
+websockets>=11.0
+python-socketio>=5.8.0
+# Async support
+asyncio-mqtt>=0.13.0
+# Optional: Advanced AI features
+# transformers>=4.21.0
+# torch>=2.0.0
+# openai>=0.27.0
+# Utilities
+requests>=2.31.0
+numpy>=1.24.0
